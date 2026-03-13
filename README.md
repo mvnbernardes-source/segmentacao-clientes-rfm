@@ -34,6 +34,15 @@ Cada linha representa uma *transação individual*.
 
 ---
 
+# Tecnologias Utilizadas
+
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Scikit-learn
+
 # Estrutura do Projeto
 
 segmentacao-clientes-rfm
@@ -184,14 +193,10 @@ A segmentação permite direcionar estratégias como:
 
 ---
 
-# Tecnologias Utilizadas
+# 👨‍💻 Autor
 
-- Python
-- Pandas
-- NumPy
-- Matplotlib
-- Seaborn
-- Scikit-learn
+Murillo Bernardes
+
 - Jupyter Notebook
 
 ---
