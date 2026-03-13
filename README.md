@@ -145,41 +145,18 @@ Cada ponto representa um cliente e as cores representam os clusters identificado
 
 A análise dos clusters permite identificar diferentes perfis de clientes.
 
-*Cluster 0 — Clientes VIP*
+A interpretação dos clusters foi realizada analisando as médias das variáveis
+Recency, Frequency e Monetary em cada grupo.
 
-- baixa recência
-- alta frequência
-- alto valor gasto
+Com base nessa análise, foram identificados perfis como:
 
-Clientes mais valiosos para a empresa.
+* Clientes de alto valor (alta frequência e alto gasto)
 
----
+* Clientes inativos (alto tempo desde a última compra)
 
-*Cluster 1 — Clientes Inativos*
+* Clientes ocasionais (baixa frequência de compra)
 
-- alta recência
-- baixa frequência
-- baixo valor gasto
-
-Clientes que não compram há muito tempo e podem ser alvo de campanhas de reativação.
-
----
-
-*Cluster 2 — Clientes Ocasionais*
-
-- frequência moderada
-- ticket médio intermediário
-
-Clientes com potencial de crescimento.
-
----
-
-*Cluster 3 — Clientes Recentes*
-
-- compras recentes
-- frequência ainda baixa
-
-Clientes novos que podem se tornar recorrentes.
+* Clientes recentes (compras recentes com potencial de crescimento)
 
 ---
 
