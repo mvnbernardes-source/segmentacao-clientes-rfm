@@ -199,6 +199,5 @@ A segmentação permite direcionar estratégias como:
 
 Murillo Bernardes
 
-- Jupyter Notebook
 
 ---
