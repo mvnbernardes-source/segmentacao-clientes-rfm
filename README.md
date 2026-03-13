@@ -43,6 +43,8 @@ Cada linha representa uma *transação individual*.
 - Seaborn
 - Scikit-learn
 
+---
+
 # Estrutura do Projeto
 
 segmentacao-clientes-rfm
